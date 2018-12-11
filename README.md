@@ -1,2 +1,2 @@
-# Latihan-8
+# Latihan-9
 Program konversi hari ke jam,menit,dan detik
